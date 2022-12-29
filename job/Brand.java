@@ -17,6 +17,6 @@ public class Brand {
 
     @Override
     public String toString() {
-        return "Brand [brand= " + brand + ", country= " + country + ", language= " + language + "]";
+        return "brand= " + brand + ", country= " + country + ", language= " + language;
     }
 }
